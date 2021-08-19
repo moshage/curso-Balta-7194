@@ -6183,11 +6183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CURSO BALTA\\7194\\Shop.csproj",
+      "projectUniqueName": "C:\\CURSO BALTA\\7194\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "C:\\CURSO BALTA\\7194\\Shop.csproj",
+      "projectPath": "C:\\CURSO BALTA\\7194\\Shop\\Shop.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\CURSO BALTA\\7194\\obj\\",
+      "outputPath": "C:\\CURSO BALTA\\7194\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CURSO BALTA\\API\\Shop\\Shop.csproj": {}
+    "C:\\CURSO BALTA\\7194\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\CURSO BALTA\\API\\Shop\\Shop.csproj": {
+    "C:\\CURSO BALTA\\7194\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CURSO BALTA\\API\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\CURSO BALTA\\7194\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\CURSO BALTA\\API\\Shop\\Shop.csproj",
+        "projectPath": "C:\\CURSO BALTA\\7194\\Shop.csproj",
         "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\CURSO BALTA\\API\\Shop\\obj\\",
+        "outputPath": "C:\\CURSO BALTA\\7194\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
